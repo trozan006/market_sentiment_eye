@@ -1,0 +1,6 @@
+{
+  "name": "Market Sentiment Eye",
+  "description": "An elite real-time cryptocurrency news sentiment analysis dashboard powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
