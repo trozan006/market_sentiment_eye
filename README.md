@@ -5,7 +5,7 @@ An elite, real-time cryptocurrency news sentiment analysis dashboard and intelli
 ---
 
 ## 🚀 Live Demo
-Access the live visual trading dashboard here: [Live App Preview](https://ais-pre-ga3zwrlm5kazckfvzna4xb-741105718117.asia-southeast1.run.app)
+Access the live visual trading dashboard here: [Live App Preview](https://market-sentiment-eye-1005046078978.asia-southeast1.run.app)
 
 ---
 
@@ -124,4 +124,4 @@ Follow these quick commands to build and run the development database server:
 ## 🛡️ Trust & Secure Design
 All custom developer keys entered in the configuration panel are saved **locally inside your browser sandbox (`localStorage`)**. No private credentials ever leave your browser environment or get committed to log channels, guaranteeing complete security.
 
-Created with high standards of UI design by trozan. 🌊
+Created with high standards of UI design. 🌊
