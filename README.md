@@ -4,11 +4,6 @@ An elite, real-time cryptocurrency news sentiment analysis dashboard and intelli
 
 ---
 
-## 🚀 Live Demo
-Access the live visual trading dashboard here: [Live App Preview](https://market-sentiment-eye-1005046078978.asia-southeast1.run.app)
-
----
-
 ## 🛸 Core Overview: How Data is Collected & Analyzed
 
 ```
